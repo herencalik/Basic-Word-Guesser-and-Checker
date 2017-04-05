@@ -1,0 +1,2 @@
+"main.cpp" is the cpp file.
+"dictionary.txt" must be in the same directory with main.cpp.
